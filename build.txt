@@ -1,0 +1,3 @@
+displayName = Fantasy Mod V.1
+author = Rocket
+version = 0.1

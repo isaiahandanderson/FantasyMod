@@ -1,0 +1,1267 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	TrafficCone: {
+		DisplayName: Traffic Cone
+		Tooltip:
+			'''
+			Its just a traffic cone.
+			Imbued with mild workplace energy 
+			Common
+			'''
+	}
+
+	BlightSword: {
+		Tooltip: Forged From Pure Malice
+		DisplayName: Blight Sword
+	}
+
+	Barbo: {
+		DisplayName: Barbo
+		Tooltip: Its an axe.
+	}
+
+	HeroSword: {
+		Tooltip: Not-So-Hero-Like
+		DisplayName: Hero Sword
+	}
+
+	HeroClaymore: {
+		Tooltip: Extra-Hero-Like
+		DisplayName: Hero Claymore
+	}
+
+	Hero: {
+		DisplayName: Hero
+		Tooltip: ""
+	}
+
+	VileWand: {
+		Tooltip: Its Gross!
+		DisplayName: Vile Wand
+	}
+
+	RancherBoots: {
+		Tooltip: Howdy!
+		DisplayName: Rancher Boots
+	}
+
+	MorhenSpear: {
+		Tooltip: ""
+		DisplayName: Morhen Spear
+	}
+
+	DreamSword: {
+		Tooltip: A weapon used to search the darkest depths of ones mind.
+		DisplayName: Dream Sword
+	}
+
+	EarthBook: {
+		Tooltip: Alternate Terrablade!
+		DisplayName: Earth Book
+	}
+
+	ottmam3k: {
+		Tooltip: Stands for Overly Titanic Titular Mining Annihilating Machine 3000!
+		DisplayName: Ottmam3k
+	}
+
+	HugePoundHammer: {
+		DisplayName: Huge Pound Hammer
+		Tooltip: ""
+	}
+
+	OTTMAM3K: {
+		DisplayName: Golden Dragon
+		Tooltip: ""
+	}
+
+	PhantomSword: {
+		DisplayName: Phantom Sword
+		Tooltip: ""
+	}
+
+	GrappleShot: {
+		DisplayName: Grapple Shot
+		Tooltip: ""
+	}
+
+	HyrulianBarrier: {
+		DisplayName: Hyrulian Barrier
+		Tooltip: +42% Melee Dmg
+	}
+
+	DarkWalnutSword: {
+		DisplayName: Dark Walnut Sword
+		Tooltip: ""
+	}
+
+	BokoBat: {
+		DisplayName: Boko Bat
+		Tooltip: ""
+	}
+
+	HumbleSword: {
+		DisplayName: Humble Sword
+		Tooltip: ""
+	}
+
+	KnightlyNail: {
+		DisplayName: Knightly Nail
+		Tooltip: ""
+	}
+
+	TotallyOriginalSword: {
+		DisplayName: Totally Original Sword
+		Tooltip: ""
+	}
+
+	LavalDagger: {
+		DisplayName: Laval Dagger
+		Tooltip: ""
+	}
+
+	SplurgeCannon: {
+		DisplayName: Splurge Cannon
+		Tooltip: ""
+	}
+
+	JumpPad: {
+		DisplayName: Jump Pad
+		Tooltip: Provides the player a simple double jump!
+	}
+
+	AdvancedSword: {
+		DisplayName: Advanced Sword
+		Tooltip: ""
+	}
+
+	SkyBoundSword: {
+		DisplayName: Sky Bound Sword
+		Tooltip: ""
+	}
+
+	PlayingCard: {
+		DisplayName: Playing Card
+		Tooltip: ""
+	}
+
+	SheriffsRevolver: {
+		DisplayName: Sheriffs Revolver
+		Tooltip: ""
+	}
+
+	CyberKnife: {
+		DisplayName: Cyber Knife
+		Tooltip: ""
+	}
+
+	CyberPick: {
+		DisplayName: Cyber Pick
+		Tooltip: ""
+	}
+
+	CyberBar: {
+		DisplayName: Cyber Bar
+		Tooltip: ""
+	}
+
+	DwarvenExcavator: {
+		DisplayName: Dwarven Excavator
+		Tooltip: ""
+	}
+
+	PoseidonsGrasp: {
+		DisplayName: Poseidons Grasp
+		Tooltip: ""
+	}
+
+	DwarvenCaster: {
+		DisplayName: Dwarven Caster
+		Tooltip: ""
+	}
+
+	DwarvenWorldShaper: {
+		DisplayName: Dwarven World Shaper
+		Tooltip: ""
+	}
+
+	DwarvenCastIron: {
+		DisplayName: Dwarven Cast Iron
+		Tooltip: ""
+	}
+
+	DwarvenGreatBow: {
+		DisplayName: Dwarven Great Bow
+		Tooltip: ""
+	}
+
+	DwarvenSunder: {
+		DisplayName: Dwarven Sunder
+		Tooltip: ""
+	}
+
+	DwarvenExplicator: {
+		DisplayName: Dwarven Explicator
+		Tooltip: ""
+	}
+
+	DwarvenBar: {
+		DisplayName: Dwarven Bar
+		Tooltip: ""
+	}
+
+	DwarvenGrasp: {
+		DisplayName: Dwarven Grasp
+		Tooltip: ""
+	}
+
+	CrimsonDemise: {
+		DisplayName: Crimson Demise
+		Tooltip: ""
+	}
+
+	Mx4Baracuda: {
+		DisplayName: Mx4 Baracuda
+		Tooltip: ""
+	}
+
+	MikesDeagle: {
+		DisplayName: Mikes Deagle
+		Tooltip: ""
+	}
+
+	ScarletPlague: {
+		DisplayName: Scarlet Plague
+		Tooltip: ""
+	}
+
+	Terrabow: {
+		DisplayName: Terrabow
+		Tooltip: ""
+	}
+
+	Terrapistol: {
+		DisplayName: Terrapistol
+		Tooltip: ""
+	}
+
+	Prismaxe: {
+		DisplayName: Prismaxe
+		Tooltip: ""
+	}
+
+	RedrixsAgincourt: {
+		DisplayName: Redrixs Agincourt
+		Tooltip: ""
+	}
+
+	RedrixsInquiry: {
+		DisplayName: Redrixs Inquiry
+		Tooltip: ""
+	}
+
+	HisAnswer: {
+		DisplayName: His Answer
+		Tooltip: ""
+	}
+
+	Pain: {
+		DisplayName: Pain
+		Tooltip: ""
+	}
+
+	Agony: {
+		DisplayName: Agony
+		Tooltip: ""
+	}
+
+	Rage: {
+		DisplayName: Rage
+		Tooltip: ""
+	}
+
+	Frustration: {
+		DisplayName: Frustration
+		Tooltip: ""
+	}
+
+	RocketsThrow: {
+		DisplayName: Rockets Throw
+		Tooltip: ""
+	}
+
+	SiegeSniper: {
+		DisplayName: Siege Sniper
+		Tooltip: ""
+	}
+
+	ExampleMountItem: {
+		DisplayName: Example Mount Item
+		Tooltip: ""
+	}
+
+	JadeChunk: {
+		DisplayName: Jade Chunk
+		Tooltip: ""
+	}
+
+	JadeForestPickaxe: {
+		DisplayName: Jade Forest Pickaxe
+		Tooltip: ""
+	}
+
+	JadeBolter: {
+		DisplayName: Jade Bolter
+		Tooltip: ""
+	}
+
+	JadeCaster: {
+		DisplayName: Jade Caster
+		Tooltip: ""
+	}
+
+	JadeSlicer: {
+		DisplayName: Jade Slicer
+		Tooltip: ""
+	}
+
+	BeautifulCatalyst: {
+		DisplayName: Beautiful Catalyst
+		Tooltip: ""
+	}
+
+	PakkusSlimeBook: {
+		DisplayName: Pakkus Slime Book
+		Tooltip: ""
+	}
+
+	SwordLogic: {
+		DisplayName: Sword Logic
+		Tooltip: ""
+	}
+
+	BookOfRock: {
+		DisplayName: Book Of Rock
+		Tooltip: ""
+	}
+
+	IceAge: {
+		DisplayName: Ice Age
+		Tooltip: ""
+	}
+
+	TengensProtection: {
+		DisplayName: Tengens Protection
+		Tooltip: ""
+	}
+
+	TengensThought: {
+		DisplayName: Tengens Thought
+		Tooltip: ""
+	}
+
+	ChyuasSorrow: {
+		DisplayName: Chyuas Sorrow
+		Tooltip: ""
+	}
+
+	Encyclopedia: {
+		DisplayName: Encyclopedia
+		Tooltip: ""
+	}
+
+	TengensReach: {
+		DisplayName: Tengens Reach
+		Tooltip: ""
+	}
+
+	AdventurersSpirit: {
+		DisplayName: Adventurers Spirit
+		Tooltip: ""
+	}
+
+	DragonBourneClaymore: {
+		DisplayName: Dragon Bourne Claymore
+		Tooltip: ""
+	}
+
+	FrostbitSpirit: {
+		DisplayName: Frostbit Spirit
+		Tooltip: ""
+	}
+
+	JadedSpirit: {
+		DisplayName: Jaded Spirit
+		Tooltip: ""
+	}
+
+	ParagonalSpirit: {
+		DisplayName: Paragonal Spirit
+		Tooltip: ""
+	}
+
+	Paragon: {
+		DisplayName: Paragon
+		Tooltip: ""
+	}
+
+	PolarIceCap: {
+		DisplayName: Polar Ice Cap
+		Tooltip: ""
+	}
+
+	RemsHope: {
+		DisplayName: Rems Hope
+		Tooltip: ""
+	}
+
+	DantesWrath: {
+		DisplayName: Dantes Wrath
+		Tooltip: ""
+	}
+
+	RemsCleaver: {
+		DisplayName: Rems Cleaver
+		Tooltip: ""
+	}
+
+	RemsResolve: {
+		DisplayName: Rems Resolve
+		Tooltip: ""
+	}
+
+	RemsScream: {
+		DisplayName: Rems Scream
+		Tooltip: ""
+	}
+
+	Fantasia: {
+		DisplayName: Fantasia
+		Tooltip: "[c/66FF66:-Developer Item-]"
+	}
+
+	ImmaculateConception: {
+		DisplayName: Immaculate Conception
+		Tooltip: ""
+	}
+
+	RosesValidation: {
+		DisplayName: Roses Validation
+		Tooltip: ""
+	}
+
+	Sundancers: {
+		DisplayName: Sundancers
+		Tooltip: ""
+	}
+
+	TheRedBanner: {
+		DisplayName: The Red Banner
+		Tooltip: ""
+	}
+
+	BeardedSpear: {
+		DisplayName: Bearded Spear
+		Tooltip: "[c/991122:Reference Item]"
+	}
+
+	ReferenceManual: {
+		DisplayName: Reference Manual
+		Tooltip: ""
+	}
+
+	GomuGomuNoMi: {
+		DisplayName: Gomu Gomu No Mi
+		Tooltip: ""
+	}
+
+	BerserkerBrew: {
+		DisplayName: Berserker Brew
+		Tooltip: ""
+	}
+
+	SaltWaterBlaster: {
+		DisplayName: Salt Water Blaster
+		Tooltip: ""
+	}
+
+	GodchaserHelm: {
+		SetBonus: Mods.FantasyMod2.Items.GodchaserHelm.SetBonus
+		DisplayName: Godchaser Helm
+		Tooltip: ""
+	}
+
+	HaydensAnswer: {
+		DisplayName: Haydens Answer
+		Tooltip: ""
+	}
+
+	ExE: {
+		DisplayName: Ex E
+		Tooltip: ""
+	}
+
+	DreadlordClaymore: {
+		DisplayName: Dreadlord Claymore
+		Tooltip: ""
+	}
+
+	Mourningstar: {
+		DisplayName: Mourningstar
+		Tooltip: ""
+	}
+
+	RemsRage: {
+		DisplayName: Rems Rage
+		Tooltip:
+			'''
+			The final wrongdoing, Rem had been betrayed for the last time, revenge. 
+			[c/66FF66:-Developer Item-]
+			'''
+	}
+
+	ShatteredGlacier: {
+		DisplayName: Shattered Glacier
+		Tooltip: ""
+	}
+
+	Duality: {
+		DisplayName: Duality
+		Tooltip: ""
+	}
+
+	GiantsHandle: {
+		DisplayName: Giants Handle
+		Tooltip: ""
+	}
+
+	Ak47: {
+		DisplayName: Ak47
+		Tooltip: ""
+	}
+
+	LastMessage: {
+		DisplayName: Last Message
+		Tooltip: ""
+	}
+
+	Spectrum: {
+		DisplayName: Spectrum
+		Tooltip: ""
+	}
+
+	PumpkinDicer: {
+		DisplayName: Pumpkin Dicer
+		Tooltip: ""
+	}
+
+	CrimtaneDumbbell: {
+		DisplayName: Crimtane Dumbbell
+		Tooltip: ""
+	}
+
+	GoldenDumbbell: {
+		DisplayName: Golden Dumbbell
+		Tooltip: ""
+	}
+
+	MoltenPlate: {
+		DisplayName: Molten Plate
+		Tooltip: ""
+	}
+
+	Murapound: {
+		DisplayName: Murapound
+		Tooltip: ""
+	}
+
+	NightsKillogram: {
+		DisplayName: Nights Killogram
+		Tooltip: ""
+	}
+
+	StandardizedDumbbell: {
+		DisplayName: Standardized Dumbbell
+		Tooltip: ""
+	}
+
+	WeightOfGrass: {
+		DisplayName: Weight Of Grass
+		Tooltip: ""
+	}
+
+	RainbowBullet: {
+		DisplayName: Rainbow Bullet
+		Tooltip: ""
+	}
+
+	SpectrumTracers: {
+		DisplayName: Spectrum Tracers
+		Tooltip:
+			'''
+			Allows flight, ultra fast running,
+			and extra mobility on ice
+			12% increased movement speed
+			Grants immunity to fire blocks
+			and 9 seconds of immunity to lava
+			Reduces damage from touching lava
+			'''
+	}
+
+	RubyGem: {
+		DisplayName: Ruby Gem
+		Tooltip: ""
+	}
+
+	Endorian: {
+		DisplayName: Endorian
+		Tooltip: ""
+	}
+
+	ExecutiveInstinct: {
+		DisplayName: Executive Instinct
+		Tooltip: ""
+	}
+
+	RedrixsTheory: {
+		DisplayName: Redrixs Theory
+		Tooltip: ""
+	}
+
+	PrevailingIdeology: {
+		DisplayName: Prevailing Ideology
+		Tooltip: ""
+	}
+
+	TeslasRevenge: {
+		DisplayName: Teslas Revenge
+		Tooltip: ""
+	}
+
+	Nail: {
+		DisplayName: Nail
+		Tooltip: ""
+	}
+
+	FlameBlade: {
+		DisplayName: Flame Blade
+		Tooltip: ""
+	}
+
+	MythicalAxe: {
+		DisplayName: Mythical Axe
+		Tooltip: ""
+	}
+
+	SkyCleaver: {
+		DisplayName: Sky Cleaver
+		Tooltip: ""
+	}
+
+	LynxClaws: {
+		DisplayName: Lynx Claws
+		Tooltip: ""
+	}
+
+	SuperBoomStick: {
+		DisplayName: Super Boom Stick
+		Tooltip: ""
+	}
+
+	PitchBlack: {
+		DisplayName: Pitch Black
+		Tooltip: ""
+	}
+
+	WardensHelmet: {
+		DisplayName: Wardens Helmet
+		Tooltip: ""
+	}
+
+	RevenantHelm: {
+		SetBonus: Mods.FantasyMod2.Items.RevenantHelm.SetBonus
+		DisplayName: Revenant Helm
+		Tooltip: ""
+	}
+
+	RevenantChest: {
+		DisplayName: Revenant Chest
+		Tooltip: ""
+	}
+
+	RevenantGreaves: {
+		DisplayName: Revenant Greaves
+		Tooltip: ""
+	}
+
+	StarHead: {
+		DisplayName: Star Head
+		Tooltip: ""
+		SetBonus: Mods.FantasyMod2.Items.StarHead.SetBonus
+	}
+
+	StarChestplate: {
+		DisplayName: Star Chestplate
+		Tooltip: ""
+	}
+
+	StarLegs: {
+		DisplayName: Star Legs
+		Tooltip: ""
+	}
+
+	AmysBlade: {
+		DisplayName: Amys Blade
+		Tooltip: ""
+	}
+
+	HoneySlicer: {
+		DisplayName: Honey Slicer
+		Tooltip: ""
+	}
+
+	DarkNut: {
+		DisplayName: Dark Nut
+		Tooltip: ""
+	}
+
+	MkDevilSlayer: {
+		DisplayName: Mk Devil Slayer
+		Tooltip: ""
+	}
+
+	BlissfulIgnorance: {
+		DisplayName: Blissful Ignorance
+		Tooltip: ""
+	}
+
+	FireStarter: {
+		DisplayName: Fire Starter
+		Tooltip: ""
+	}
+
+	FireLordsEndorsement: {
+		DisplayName: Fire Lords Endorsement
+		Tooltip: ""
+	}
+
+	RainbowScythe: {
+		DisplayName: Rainbow Scythe
+		Tooltip: ""
+	}
+
+	RgbCoreProcessor: {
+		DisplayName: Rgb Core Processor
+		Tooltip: ""
+	}
+
+	CottenCandy: {
+		DisplayName: Cotten Candy
+		Tooltip: ""
+	}
+
+	ElBlunder: {
+		DisplayName: El Blunder
+		Tooltip: ""
+	}
+
+	SureStryker: {
+		DisplayName: Sure Stryker
+		Tooltip: ""
+	}
+
+	Necronomacon: {
+		DisplayName: Necronomacon
+		Tooltip: ""
+	}
+
+	TheMechanicsRage: {
+		DisplayName: The Mechanics Rage
+		Tooltip: ""
+	}
+
+	Terminator: {
+		DisplayName: Terminator
+		Tooltip: ""
+	}
+
+	TheCircuit: {
+		DisplayName: The Circuit
+		Tooltip: ""
+	}
+
+	KensBlessing: {
+		DisplayName: Kens Blessing
+		Tooltip: ""
+	}
+
+	FirstGenRemote: {
+		DisplayName: First Gen Remote
+		Tooltip: ""
+	}
+
+	DiamondHeart: {
+		DisplayName: Diamond Heart
+		Tooltip: ""
+	}
+
+	Kitsune: {
+		DisplayName: Kitsune
+		Tooltip: ""
+	}
+
+	Blade: {
+		DisplayName: Blade
+		Tooltip: ""
+	}
+
+	Handle: {
+		DisplayName: Handle
+		Tooltip: ""
+	}
+
+	Ambition: {
+		DisplayName: Ambition
+		Tooltip: ""
+	}
+
+	Champion: {
+		DisplayName: Champion
+		Tooltip: ""
+	}
+
+	MartyrsDriver: {
+		DisplayName: Martyrs Driver
+		Tooltip: ""
+	}
+
+	Heaven: {
+		DisplayName: Heaven
+		Tooltip: ""
+	}
+
+	TheConductor: {
+		DisplayName: The Conductor
+		Tooltip: ""
+	}
+
+	TheOpperator: {
+		DisplayName: The Opperator
+		Tooltip: ""
+	}
+
+	ColdLump: {
+		DisplayName: Cold Lump
+		Tooltip:
+			'''
+			Summons The Watcher Body
+			Can only be used during night time
+			[c/66FF66:-Summon Item-]
+			'''
+	}
+
+	TheWatcherBag: {
+		DisplayName: The Watcher Bag
+		Tooltip: ""
+	}
+
+	StalkerBlade: {
+		DisplayName: Stalker Blade
+		Tooltip: ""
+	}
+
+	BarToEntry: {
+		DisplayName: Bar To Entry
+		Tooltip: ""
+	}
+
+	TheWatchersLash: {
+		DisplayName: The Watchers Lash
+		Tooltip: ""
+	}
+
+	WatcherCube: {
+		DisplayName: Watcher Cube
+		Tooltip: ""
+	}
+
+	FistOfLanbu: {
+		DisplayName: Fist Of Lanbu
+		Tooltip: ""
+	}
+
+	IronMace: {
+		DisplayName: Iron Mace
+		Tooltip: ""
+	}
+
+	MonsterEnergy: {
+		DisplayName: Monster Energy
+		Tooltip: ""
+	}
+
+	Disease: {
+		DisplayName: Disease
+		Tooltip: ""
+	}
+
+	Hope: {
+		DisplayName: Hope
+		Tooltip: ""
+	}
+
+	EarthSplitter: {
+		DisplayName: Earth Splitter
+		Tooltip: ""
+	}
+
+	DwarvenHelmet: {
+		SetBonus: Mods.FantasyMod2.Items.DwarvenHelmet.SetBonus
+		DisplayName: Dwarven Helmet
+		Tooltip: ""
+	}
+
+	DwarvenBoots: {
+		DisplayName: Dwarven Boots
+		Tooltip: ""
+	}
+
+	DwarvenChestplate: {
+		DisplayName: Dwarven Chestplate
+		Tooltip: ""
+	}
+
+	ORCA: {
+		DisplayName: O R C A
+		Tooltip: ""
+	}
+
+	GraniteEnergizer: {
+		DisplayName: Granite Energizer
+		Tooltip: ""
+	}
+
+	MyceliumDicer: {
+		DisplayName: Mycelium Dicer
+		Tooltip: ""
+	}
+
+	RomanAnthem: {
+		DisplayName: Roman Anthem
+		Tooltip: ""
+	}
+
+	Greed: {
+		DisplayName: Greed
+		Tooltip: ""
+	}
+
+	MobTactics: {
+		DisplayName: Mob Tactics
+		Tooltip: ""
+	}
+
+	OccultBlade: {
+		DisplayName: Occult Blade
+		Tooltip: ""
+	}
+
+	DukeOfNothing: {
+		DisplayName: Duke Of Nothing
+		Tooltip: ""
+	}
+
+	ReturnSender: {
+		DisplayName: Return Sender
+		Tooltip: ""
+	}
+
+	SamsSlicer: {
+		DisplayName: Sams Slicer
+		Tooltip: ""
+	}
+
+	GardenScythe: {
+		DisplayName: Garden Scythe
+		Tooltip: ""
+	}
+
+	TimsTrustedHatchet: {
+		DisplayName: Tims Trusted Hatchet
+		Tooltip: ""
+	}
+
+	DunsCrossbow: {
+		DisplayName: Duns Crossbow
+		Tooltip: ""
+	}
+
+	SamsShortbow: {
+		DisplayName: Sams Shortbow
+		Tooltip: ""
+	}
+
+	BloodBolter: {
+		DisplayName: Blood Bolter
+		Tooltip: ""
+	}
+
+	BloodWorkAxe: {
+		DisplayName: Blood Work Axe
+		Tooltip: ""
+	}
+
+	Toxiana: {
+		DisplayName: Toxiana
+		Tooltip: ""
+	}
+
+	Arachnia: {
+		DisplayName: Arachnia
+		Tooltip: ""
+	}
+
+	DaedulusAxe: {
+		DisplayName: Daedulus Axe
+		Tooltip: ""
+	}
+
+	RemsAmbition: {
+		DisplayName: Rems Ambition
+		Tooltip: ""
+	}
+
+	RoughMallet: {
+		DisplayName: Rough Mallet
+		Tooltip:
+			'''
+			Cold to the touch.
+			Shoots an array of bloodied nails
+			[c/6e00a1:-Nightmare Weapon-]
+			'''
+	}
+
+	TacticalKnife: {
+		DisplayName: Tactical Knife
+		Tooltip: ""
+	}
+
+	BloodFilledBirdCage: {
+		DisplayName: Blood Filled Bird Cage
+		Tooltip: ""
+	}
+
+	SnowStorm: {
+		DisplayName: Snow Storm
+		Tooltip: ""
+	}
+
+	BloodiedVile: {
+		DisplayName: Bloodied Vile
+		Tooltip:
+			'''
+			Used in the creation of nightmare weapons
+			Dropped from blood moon creatures
+			[c/6e00a1:-Nightmare-]
+			'''
+	}
+
+	SledgeHammer: {
+		DisplayName: Sledge Hammer
+		Tooltip:
+			'''
+			Shoots a refined nail with health properties
+			Icy to the feel.
+			[c/6e00a1:-Nightmare Weapon-]
+			'''
+	}
+
+	TrueSledge: {
+		DisplayName: True Sledge
+		Tooltip:
+			'''
+			Subzero.
+			Launches high velocity tracer nails with healing capabilities
+			[c/6e00a1:-Nightmare Weapon-]
+			'''
+	}
+
+	CryptFalchion: {
+		DisplayName: Crypt Falchion
+		Tooltip: ""
+	}
+
+	CosmicFalchion: {
+		DisplayName: Cosmic Falchion
+		Tooltip: ""
+	}
+
+	DarkFlameFalchion: {
+		DisplayName: Dark Flame Falchion
+		Tooltip: ""
+	}
+
+	MysteriousEgg: {
+		DisplayName: Mysterious Egg
+		Tooltip: ""
+	}
+
+	JerickosFlail: {
+		DisplayName: Jerickos Flail
+		Tooltip: ""
+	}
+
+	ExampleLastPrism: {
+		DisplayName: Jerickos Crystal
+		Tooltip:
+			'''
+			A familiar weapon imbued with the essence of Jericko
+			[c/6e00a1:-Developer-]
+			'''
+	}
+
+	Hypothermia: {
+		DisplayName: Hypothermia
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	VileWandProjectile.DisplayName: Vile Wand Projectile
+	MorhenSpearProjectile.DisplayName: Morhen Spear Projectile
+	DreamSwordProjectile.DisplayName: Dream Sword Projectile
+	EarthBookProjectile.DisplayName: Earth Book Projectile
+	GrappleShotProjectile.DisplayName: Grapple Shot Projectile
+	DarkWalnutSwordProjectile.DisplayName: Dark Walnut Sword Projectile
+	CyberKnifeProjectile.DisplayName: Cyber Knife Projectile
+	PoseidonsGraspProjectile.DisplayName: Poseidons Grasp Projectile
+	DwarvenSunderProjectile.DisplayName: Dwarven Sunder Projectile
+	DwarvenGraspProjectile.DisplayName: Dwarven Grasp Projectile
+	ScarletPlagueProjectile.DisplayName: Scarlet Plague Projectile
+	PrismaxeProjectile.DisplayName: Prismaxe Projectile
+	RocketsThrowProjectile.DisplayName: Rockets Throw Projectile
+	JadeSlicerProjectile.DisplayName: Jade Slicer Projectile
+	SparklingBall.DisplayName: Sparkling Ball
+	TengensReachProjectile.DisplayName: Tengens Reach Projectile
+	FantasiaSwungBlade.DisplayName: Fantasia Swung Blade
+	Bearded.DisplayName: Bearded
+	Stretch.DisplayName: Stretch
+	Inquire.DisplayName: Inquire
+	Ex.DisplayName: Ex
+	Dreadlord.DisplayName: Dreadlord
+	MourningstarFlail.DisplayName: Mourningstar Flail
+	Crimtane.DisplayName: Crimtane
+	Golden.DisplayName: Golden
+	Grass.DisplayName: Grass
+	Metal.DisplayName: Metal
+	Molt.DisplayName: Molt
+	Mura.DisplayName: Mura
+	NightD.DisplayName: Night D
+	RainBullet.DisplayName: Rain Bullet
+	ParaProj.DisplayName: Para Proj
+	TeslaProj.DisplayName: Tesla Proj
+	Knight.DisplayName: Knight
+	RainbowSickle.DisplayName: Rainbow Sickle
+	FirstGenDrone.DisplayName: First Gen Drone
+	Heavenproj.DisplayName: Heavenproj
+	Conduct.DisplayName: Conduct
+	RedArrow.DisplayName: Red Arrow
+	RedSword.DisplayName: Red Sword
+	Lash.DisplayName: Lash
+	LanProj.DisplayName: Lan Proj
+	Mace.DisplayName: Mace
+	Hproj.DisplayName: Hproj
+	EarthProj.DisplayName: Earth Proj
+	Return.DisplayName: Return
+	BloodBird.DisplayName: Blood Bird
+	DaeProj.DisplayName: Dae Proj
+	ToxProj.DisplayName: Tox Proj
+	HevProj.DisplayName: Hev Proj
+	MalletProj.DisplayName: Mallet Proj
+	SledgeProj.DisplayName: Sledge Proj
+	TrueProj.DisplayName: True Proj
+	Cfalcproj.DisplayName: Cfalcproj
+	CosmicProj.DisplayName: Cosmic Proj
+	DarkProj.DisplayName: Dark Proj
+	JerickoProj.DisplayName: Jericko Proj
+	ExampleLastPrismBeam.DisplayName: Example Last Prism Beam
+	ExampleLastPrismHoldout.DisplayName: Example Last Prism Holdout
+}
+
+Buffs: {
+	ExampleMountBuff: {
+		DisplayName: Example Mount Buff
+		Description: Mods.FantasyMod2.Buffs.ExampleMountBuff.Description
+	}
+
+	Berserker: {
+		DisplayName: Berserker
+		Description: Mods.FantasyMod2.Buffs.Berserker.Description
+	}
+
+	KnightBuff: {
+		DisplayName: Knight Buff
+		Description: Mods.FantasyMod2.Buffs.KnightBuff.Description
+	}
+
+	RainbowBuff: {
+		DisplayName: Rainbow Buff
+		Description: Mods.FantasyMod2.Buffs.RainbowBuff.Description
+	}
+
+	DroneBuff: {
+		DisplayName: Drone Buff
+		Description: Mods.FantasyMod2.Buffs.DroneBuff.Description
+	}
+
+	steel: {
+		DisplayName: steel
+		Description: Mods.FantasyMod2.Buffs.steel.Description
+	}
+
+	MonsterBuff: {
+		DisplayName: Monster Buff
+		Description: Mods.FantasyMod2.Buffs.MonsterBuff.Description
+	}
+
+	BirdBuff: {
+		DisplayName: Bird Buff
+		Description: Mods.FantasyMod2.Buffs.BirdBuff.Description
+	}
+
+	YoshiBuff: {
+		DisplayName: Yoshi Buff
+		Description: Mods.FantasyMod2.Buffs.YoshiBuff.Description
+	}
+}
+
+DamageClasses: {
+	Lift.DisplayName: Lift
+	LiftDamage.DisplayName: Lift Damage
+	CrusherDamage.DisplayName: Crusher Damage
+}
+
+Prefixes: {
+	PowerTooltip: Mods.FantasyMod2.Prefixes.PowerTooltip
+
+	Shredded: {
+		AdditionalTooltip: Mods.FantasyMod2.Prefixes.Shredded.AdditionalTooltip
+		DisplayName: Shredded
+	}
+
+	Ungodly: {
+		AdditionalTooltip: Mods.FantasyMod2.Prefixes.Ungodly.AdditionalTooltip
+		DisplayName: Ungodly
+	}
+
+	Terraformed: {
+		AdditionalTooltip: Mods.FantasyMod2.Prefixes.Terraformed.AdditionalTooltip
+		DisplayName: Terraformed
+	}
+}
+
+NPCs: {
+	TheWatcherBody.DisplayName: The Watcher Body
+	TheWatcherMinion.DisplayName: The Watcher Minion
+}

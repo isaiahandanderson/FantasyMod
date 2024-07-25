@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FantasyMod2", "FantasyMod2.csproj", "{748737EE-4D8A-46D4-99E3-E4B15D91C617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{748737EE-4D8A-46D4-99E3-E4B15D91C617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748737EE-4D8A-46D4-99E3-E4B15D91C617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748737EE-4D8A-46D4-99E3-E4B15D91C617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748737EE-4D8A-46D4-99E3-E4B15D91C617}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C1B088E-C6D1-433B-BD1A-9D42A9493F3E}
+	EndGlobalSection
+EndGlobal
